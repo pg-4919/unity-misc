@@ -1,5 +1,5 @@
 ## Installation ##
-Sounds fancy, but just copy the code into MountainSpawner.cs and attach it to a Unity Empty. The inspector will have a Mountain Prefab option, and a Player Obj option. These are fairly self explanatory.
+Sounds fancy, but just copy the code into MountainSpawner.cs and attach it to a Unity Empty. The inspector will have a Mountain Prefab option, and a Player Obj option. These are fairly self explanatory. Just attach their respective GameObjects in the Inspector. All of the Inspector settings have been initialized to a value that can work. This doesn't mean that it works well. It just means that it spawns mountains. You'll have to adjust them yourselves.
 
 ## Inspector Settings ##
 Setting|Description
